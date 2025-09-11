@@ -176,7 +176,7 @@ Implemented three supervised machine learning models:
 ## 12. 📂 Repository Structure
 ```text
 loan-default-prediction/
-├─ data/                        # Sample or synthetic Lending Club data
+├─ data/                        # Lending financial data
 ├─ notebooks/                   # CRISP-DM workflow
 │  ├─ 01_data_understanding.ipynb
 │  ├─ 02_data_preparation.ipynb
@@ -185,7 +185,6 @@ loan-default-prediction/
 ├─ docs/                        # Reports and slides
 │  ├─ Team5_Lending Club Financial Data.pdf
 │  ├─ Loan default prediction report.pdf
-│  └─ Deck.pdf
 ├─ requirements.txt
 ├─ README.md
 └─ LICENSE
