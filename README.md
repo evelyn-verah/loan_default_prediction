@@ -201,6 +201,6 @@ loan-default-prediction/
 ---
 
 ## 14. 🙏 Acknowledgements
-- **Lending Club dataset** for financial data.
+- ** Kaggle Lending financial Data dataset** for financial data.
 - **Open-source tools**: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [scikit-learn](https://scikit-learn.org/), [imbalanced-learn](https://imbalanced-learn.org/), [Matplotlib](https://matplotlib.org/).
 - **Professor Vilma Todri - Emory University** for guidance on credit risk modeling and ethical AI practices.
