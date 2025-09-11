@@ -1,0 +1,14 @@
+# Core data science stack
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook support
+jupyter
