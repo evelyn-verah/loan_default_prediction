@@ -15,6 +15,7 @@
 - [Repository Structure](#repository-structure)
 - [Technologies](#technologies)
 - [Acknowledgements](#acknowledgements)
+- License
 
 ---
 
@@ -204,3 +205,16 @@ loan-default-prediction/
 - ** Kaggle Lending financial Data dataset** for financial data.
 - **Open-source tools**: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [scikit-learn](https://scikit-learn.org/), [imbalanced-learn](https://imbalanced-learn.org/), [Matplotlib](https://matplotlib.org/).
 - **Professor Vilma Todri - Emory University** for guidance on credit risk modeling and ethical AI practices.
+- 
+## 15. MIT License
+
+Copyright (c) 2025 Everlyn Musembi.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[... standard MIT text continues ...
