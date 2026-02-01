@@ -178,7 +178,7 @@ Implemented three supervised machine learning models:
 ```text
 loan-default-prediction/
 ├─ data/                        # Lending financial data
-├─ notebooks/                   # CRISP-DM workflow
+├─ code files/                   # CRISP-DM workflow
 │  ├─ 01_data_understanding.ipynb
 │  ├─ 02_data_preparation.ipynb
 │  ├─ 03_modeling.ipynb
